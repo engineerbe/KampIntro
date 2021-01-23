@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro.csproj", "{3247ED20-445E-4EFC-9D55-367BF1C61C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{93508F70-6CCE-46CC-99A0-83D1347AD2DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{CE0C4E8E-2F46-49BB-877E-167B84D84D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{3065010C-6809-4D52-BBDD-08DAD125049E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3247ED20-445E-4EFC-9D55-367BF1C61C65}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3247ED20-445E-4EFC-9D55-367BF1C61C65}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3247ED20-445E-4EFC-9D55-367BF1C61C65}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3247ED20-445E-4EFC-9D55-367BF1C61C65}.Release|anycpu.Build.0 = Release|anycpu
+		{93508F70-6CCE-46CC-99A0-83D1347AD2DB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{93508F70-6CCE-46CC-99A0-83D1347AD2DB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{93508F70-6CCE-46CC-99A0-83D1347AD2DB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{93508F70-6CCE-46CC-99A0-83D1347AD2DB}.Release|anycpu.Build.0 = Release|anycpu
+		{CE0C4E8E-2F46-49BB-877E-167B84D84D5D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CE0C4E8E-2F46-49BB-877E-167B84D84D5D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CE0C4E8E-2F46-49BB-877E-167B84D84D5D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CE0C4E8E-2F46-49BB-877E-167B84D84D5D}.Release|anycpu.Build.0 = Release|anycpu
+		{3065010C-6809-4D52-BBDD-08DAD125049E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3065010C-6809-4D52-BBDD-08DAD125049E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3065010C-6809-4D52-BBDD-08DAD125049E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3065010C-6809-4D52-BBDD-08DAD125049E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
